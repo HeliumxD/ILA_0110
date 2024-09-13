@@ -4,9 +4,10 @@ Nicola Karrer
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       | 0.0.1   |  |
+|       | 0.0.2   |  |
+|       | 0.0.3   |  |
+|       | 0.0.4   |  |
 
 ## 1 Informieren
 
@@ -16,20 +17,17 @@ Portfolio Webseite über mich
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Typ  | Beschreibung                       |
+| ---- | ---- | ---------------------------------- |
+| 1.1  | Funktional | Als User möchte ich, dass ich auf die Webseite zu jeder Zeit zugriff habe |
+| 2.1  | Funktinoal | Als User möchte ich, dass ich mir die einzelnen Seiten anzeigen lassen kann  |
+| 3.1  | Funktional | Als User möchte ich, dass mir alles korrekt angezeigt wird |
+| 4.1  | Qualität | Als User möchte ich, dass das GUI angenehm ist |
+| 5.1  | Randbedingung | Als User möchte ich, dass ich direkt eine Nachricht verschicken kann |
 
-### 1.3 Testfälle
+### 1.3 Diagramme
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-
-### 1.4 Diagramme
+![Screenshot 2024-09-13 130902](https://github.com/user-attachments/assets/ef9a4a1d-2e08-4c7e-9032-edfed5957213)
 
 ## 2 Planen
 
