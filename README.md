@@ -7,7 +7,7 @@ Nicola Karrer
 | 23.08 | 0.0.1   | Plannung gemacht und Test design erstellt |
 | 30.80 | 0.0.2   | HTML- und CSS und JS-Basis Code geschrieben, JSON-Code angefangen |
 | 06.09 | 0.0.3   | Webseite dynamisch gemacht und angefangen Text zu schreiben |
-| 13.09 | 0.0.4   | - |
+| 13.09 | 1.0.0   | Webseite responsive gemacht und Text fertig geschrieben |
 
 ## 1 Informieren
 
@@ -71,14 +71,9 @@ da sonst die Zeit sehr knapp wird.
 | 4.A  | 06.09 | Nicola | Webseite dynamisch machen | 100min |
 | 5.A  | 06.09 | Nicola | "Über mich" schreiben | 40min |
 | 5.B  | 06.09 | Nicola | "Lebenslauf" schreiben | 40min |
-| 5.C  | 13.09 | Nicola | "Projekte" schreiben | 60min |
+| 5.C  | 13.09 | Nicola | "Projekte" schreiben | 90min |
 | 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 10min |
 | 7.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
-| 8.A  | 18.10 | Nicola | Unit Tests schreiben | 60min |
-| 8.B  | 18.10 | Niocla | Usability Tests schreiben | 60min |
-| 8.C  | 18.10 | Nicola | Tests durchführen | 45min |
-| 8.C  | 25.10 | Nicola | Tests durchführen | 45min |
-| 9.A  | 25.10 | Nicola | Webseite veröffentlichen | 135min |
 
 ## 5 Kontrollieren
 
