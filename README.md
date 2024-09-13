@@ -4,10 +4,10 @@ Nicola Karrer
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |  |
-|       | 0.0.2   |  |
-|       | 0.0.3   |  |
-|       | 0.0.4   |  |
+| 23.08 | 0.0.1   | Plannung gemacht und Test design erstellt |
+| 30.80 | 0.0.2   | HTML- und CSS-Basis Code geschrieben, JS- und JSON-Code angefangen |
+| 06.09 | 0.0.3   | Webseite dynamisch gemacht und angefangen Text zu schreiben |
+| 13.09 | 0.0.4   | - |
 
 ## 1 Informieren
 
@@ -25,7 +25,7 @@ Portfolio Webseite über mich
 | 4.1  | Qualität | Als User möchte ich, dass das GUI angenehm ist |
 | 5.1  | Randbedingung | Als User möchte ich, dass ich direkt eine Nachricht verschicken kann |
 
-### 1.3 Diagramme
+### 1.3 Test design
 
 ![Screenshot 2024-09-13 130902](https://github.com/user-attachments/assets/ef9a4a1d-2e08-4c7e-9032-edfed5957213)
 
