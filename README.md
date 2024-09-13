@@ -5,7 +5,7 @@ Nicola Karrer
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08 | 0.0.1   | Plannung gemacht und Test design erstellt |
-| 30.80 | 0.0.2   | HTML- und CSS-Basis Code geschrieben, JS- und JSON-Code angefangen |
+| 30.80 | 0.0.2   | HTML- und CSS und JS-Basis Code geschrieben, JSON-Code angefangen |
 | 06.09 | 0.0.3   | Webseite dynamisch gemacht und angefangen Text zu schreiben |
 | 13.09 | 0.0.4   | - |
 
@@ -39,25 +39,47 @@ Portfolio Webseite über mich
 | 3.A  | 30.08 | Nicola | HTML Code schreiben | 45min |
 | 3.B  | 30.08 | Nicola | CSS Code schreiben | 45min |
 | 3.C  | 30.08 | Nicola | JS Code schreiben | 45min |
-| 3.D  | 06.09 | Nicola | JSON Code schrieben | 45min |
 | 4.A  | 06.09 | Nicola | Webseite dynamisch machen | 90min |
 | 5.A  | 06.09 | Nicola | "Über mich" schreiben | 45min |
 | 5.B  | 13.09 | Nicola | "Lebenslauf" schreiben | 45min |
 | 5.C  | 13.09 | Nicola | "Projekte" schreiben | 45min |
 | 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 45min |
-| ~6.A~  | ~13.09~ | ~Nicola~ | ~Webseite responsive machen~ | ~45min~ |
-| 7.A  | 18.10 | Nicola | Unit Tests schreiben | 90min |
-| 7.B  | 18.10 | Niocla | Usability Tests schreiben | 90min |
-| 7.C  | 25.10 | Nicola | Tests durchführen | 135min | 
+| ~6.A~  | 13.09~ | ~Nicola~ | ~Direkter Kontakt möglich machen~ | ~45min~ |
+| 7.A  | 18.09 | Nicola | Webseite responsive machen | 45min |
+| 8.A  | 18.10 | Nicola | Unit Tests schreiben | 90min |
+| 8.B  | 18.10 | Niocla | Usability Tests schreiben | 90min |
+| 8.C  | 18.10 | Nicola | Tests durchführen | 45min |
+| 8.C  | 25.10 | Nicola | Tests durchführen | 45min |
+| 9.A  | 25.10 | Nicola | Webseite veröffentlichen | 135min |
 
 ## 3 Entscheiden
+
+30.08 Ich habe mich dazu entschieden, die Webseite doch anders als geplant zu designen
+
+13.09 Ich habe mich dazu entschieden, keine Funktion einzubauen, mit der man direkt Nachrichten senden kann,
+da sonst die Zeit sehr knapp wird.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 23.08 | Nicola | Webseite planen | 120min |
+| 2.A  | 23.08 | Nicola | Design erstellen | 60min |
+| 3.A  | 30.08 | Nicola | HTML Code schreiben | 45min |
+| 3.B  | 30.08 | Nicola | CSS Code schreiben | 60min |
+| 3.C  | 30.08 | Nicola | JS Code schreiben | 60min |
+| 4.A  | 06.09 | Nicola | Webseite dynamisch machen | 100min |
+| 5.A  | 06.09 | Nicola | "Über mich" schreiben | 40min |
+| 5.B  | 06.09 | Nicola | "Lebenslauf" schreiben | 40min |
+| 5.C  | 13.09 | Nicola | "Projekte" schreiben | 60min |
+| 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 10min |
+| ~6.A~  | 13.09~ | ~Nicola~ | ~Direkter Kontakt möglich machen~ | ~45min~ |
+| 7.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
+| 8.A  | 18.10 | Nicola | Unit Tests schreiben | 60min |
+| 8.B  | 18.10 | Niocla | Usability Tests schreiben | 60min |
+| 8.C  | 18.10 | Nicola | Tests durchführen | 45min |
+| 8.C  | 25.10 | Nicola | Tests durchführen | 45min |
+| 9.A  | 25.10 | Nicola | Webseite veröffentlichen | 135min |
 
 ## 5 Kontrollieren
 
