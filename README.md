@@ -73,7 +73,6 @@ da sonst die Zeit sehr knapp wird.
 | 5.B  | 06.09 | Nicola | "Lebenslauf" schreiben | 40min |
 | 5.C  | 13.09 | Nicola | "Projekte" schreiben | 60min |
 | 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 10min |
-| ~6.A~  | 13.09~ | ~Nicola~ | ~Direkter Kontakt möglich machen~ | ~45min~ |
 | 7.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
 | 8.A  | 18.10 | Nicola | Unit Tests schreiben | 60min |
 | 8.B  | 18.10 | Niocla | Usability Tests schreiben | 60min |
