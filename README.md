@@ -23,7 +23,8 @@ Portfolio Webseite über mich
 | 2.1  | Funktinoal | Als User möchte ich, dass ich mir die einzelnen Seiten anzeigen lassen kann  |
 | 3.1  | Funktional | Als User möchte ich, dass mir alles korrekt angezeigt wird |
 | 4.1  | Qualität | Als User möchte ich, dass das GUI angenehm ist |
-| 5.1  | Randbedingung | Als User möchte ich, dass ich direkt eine Nachricht verschicken kann |
+| 5.1  | Qualität | Als User möchte ich, ass die Webseite responsiv ist |
+| ~6.1~  | ~Randbedingung~ | ~Als User möchte ich, dass ich direkt eine Nachricht verschicken kann~ |
 
 ### 1.3 Test design
 
@@ -33,10 +34,21 @@ Portfolio Webseite über mich
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
-Total: 
+| 1.A  | 23.08 | Nicola | Webseite planen | 90min |
+| 2.A  | 23.08 | Nicola | Design erstellen | 90min |
+| 3.A  | 30.08 | Nicola | HTML Code schreiben | 45min |
+| 3.B  | 30.08 | Nicola | CSS Code schreiben | 45min |
+| 3.C  | 30.08 | Nicola | JS Code schreiben | 45min |
+| 3.D  | 06.09 | Nicola | JSON Code schrieben | 45min |
+| 4.A  | 06.09 | Nicola | Webseite dynamisch machen | 90min |
+| 5.A  | 06.09 | Nicola | "Über mich" schreiben | 45min |
+| 5.B  | 13.09 | Nicola | "Lebenslauf" schreiben | 45min |
+| 5.C  | 13.09 | Nicola | "Projekte" schreiben | 45min |
+| 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 45min |
+| ~6.A~  | ~13.09~ | ~Nicola~ | ~Webseite responsive machen~ | ~45min~ |
+| 7.A  | 18.10 | Nicola | Unit Tests schreiben | 90min |
+| 7.B  | 18.10 | Niocla | Usability Tests schreiben | 90min |
+| 7.C  | 25.10 | Nicola | Tests durchführen | 135min | 
 
 ## 3 Entscheiden
 
