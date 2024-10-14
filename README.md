@@ -59,8 +59,7 @@ Portfolio Webseite über mich
 
 06.09 Ich habe mich dazu entschieden, das Matherätsel nicht zu machen, da es nicht nötig ist und es mehr Zeit einnehmen würde als geplant. Die Idee war, dass man eine Gleichung lösen musste um auf die Webseite kommen zu können.
 
-13.09 Ich habe mich dazu entschieden, keine Funktion einzubauen, mit der man direkt Nachrichten senden kann,
-da sonst die Zeit sehr knapp wird.
+13.09 Ich habe mich dazu entschieden, die Webseite noch responsiv zu machen, da es ein wichtiger Teil der Benutzerfreundlichkeit ist. Dafür habe ich mich dazu entschieden, keine Funktion einzubauen, mit der man direkt Nachrichten senden kann, da sonst die Zeit sehr knapp wird.
 
 14.10 Ich habe mich dazu entschieden, keine Unit Tests zu machen, weil ich das Matherätsel durchgestrichen habe und weitere Unit Tests für die Webseite keinen Sinn ergeben würden.
 
