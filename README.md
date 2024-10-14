@@ -45,7 +45,7 @@ Portfolio Webseite über mich
 | 5.C  | 13.09 | Nicola | "Projekte" schreiben | 45min |
 | 5.D  | 13.09 | Nicola | "Kontakt" schreiben | 45min |
 | ~6.A~  | 13.09~ | ~Nicola~ | ~Direkter Kontakt möglich machen~ | ~45min~ |
-| 7.A  | 18.09 | Nicola | Webseite responsive machen | 45min |
+| 7.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
 | 8.A  | 18.10 | Nicola | Unit Tests schreiben | 90min |
 | 8.B  | 18.10 | Niocla | Usability Tests schreiben | 90min |
 | 8.C  | 18.10 | Nicola | Tests durchführen | 45min |
