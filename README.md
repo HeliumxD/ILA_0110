@@ -86,34 +86,34 @@ da sonst die Zeit sehr knapp wird.
 
 Usability Tests
 
-Navigation:
+1 Navigation:
 Man versteht direkt, was die einzelnen Knöpfe bedeuten und wie man zu was kommt. Es braucht keine zusätzliche Erklärung über die Funktion.
 
-Lesbarkeit:
+2 Lesbarkeit:
 Die Grösse und Farbe des Texts ist angenehemen zum lesen und man muss sich nicht anstrengen.
 
-Informationen:
+3 Informationen:
 Man weiss durch die Titel direkt, um was sich der Abschnitt handeln wird. Die Informationen sind zudem verständlich.
 
-Link-Test:
+4 Link-Test:
 Alle Links auf der Webseite funktionieren und führen zur richtigen Seite.
 
-Augenkomfort:
+5 Augenkomfort:
 Das Design ist angenehm anzusehen und stört nicht. Farbe, Schriftart und Layout passen zusammen.
 
-Interaktive Elemente:
+6 Interaktive Elemente:
 Es ist klar, welche Elemente interaktiv sind und was sie machen.
 
-Professionalität:
+7 Professionalität:
 Die Webseite sieht professionel gemacht aus und wirkt auch so. Es spricht den Nutzer an.
 
-Ladezeit:
+8 Ladezeit:
 Das laden der Webseite sollte nicht die Benutzererfahrung negativ beeinträchtigen und in einer angemessenen Zeit laden.
 
-Responsivität:
+9 Responsivität:
 Die Webseite ist auf verschiedenen Geräten verwendbar. Sie funktioniert einwandfrei und passt sich der Grösse an.
 
-Zugang:
+10 Zugang:
 Der Zugang zur Webseite funktioniert ohne Probleme und ist zu allen Zeiten möglich.
 
 | TC-№ | Titel | Datum | Resultat | Tester |
