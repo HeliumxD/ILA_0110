@@ -91,45 +91,16 @@ Portfolio Webseite über mich
 
 Usability Tests
 
-1) Navigation:
-Man versteht direkt, was die einzelnen Knöpfe bedeuten und wie man zu was kommt. Es braucht keine zusätzliche Erklärung über die Funktion.
-
-2) Lesbarkeit:
-Die Grösse und Farbe des Texts ist angenehemen zum lesen und man muss sich nicht anstrengen.
-
-3) Informationen:
-Man weiss durch die Titel direkt, um was sich der Abschnitt handeln wird. Die Informationen sind zudem verständlich.
-
-4) Link-Test:
-Alle Links auf der Webseite funktionieren und führen zur richtigen Seite.
-
-5) Augenkomfort:
-Das Design ist angenehm anzusehen und stört nicht. Farbe, Schriftart und Layout passen zusammen.
-
-6) Interaktive Elemente:
-Es ist klar, welche Elemente interaktiv sind und was sie machen.
-
-7) Professionalität:
-Die Webseite sieht professionel gemacht aus und wirkt auch so. Es spricht den Nutzer an.
-
-8) Ladezeit:
-Das laden der Webseite sollte nicht die Benutzererfahrung negativ beeinträchtigen und in einer angemessenen Zeit laden.
-
-9) Responsivität:
-Die Webseite ist auf verschiedenen Geräten verwendbar. Sie funktioniert einwandfrei und passt sich der Grösse an.
-
-10) Zugang:
-Der Zugang zur Webseite funktioniert ohne Probleme und ist zu allen Zeiten möglich.
-
-| TC-№ | Titel | Datum | Resultat | Tester |
-| ---- | ----- | ----- | -------- | ------ |
-| 1    | Navigations | 14.10 | Navigation ist klar und einfach zu bedienen | Nicola, Sathana |
-| 2    | Lesbarkeit  | 14.10 | Text ist gut Lesbar | Nicola, Sathana |
-| 3    | Informationen | 14.10 | Man weiss direkt um was es geht | Nicola, Sathana |
-| 4    | Link-Test | 14.10 | Alle Links funktionieren richtig | Nicola, Sathana |
-| 5    | Augenkomfort | 14.10 | Das Design ist Okay | Nicola, Sathana |
-| 6    | Interaktive Elemente | 14.10 | Grundsätzlich klar, ausser Bild vielleicht | Nicola, Sathana |
-| 7    | Professionalität | 14.10 | Subjektivitäts sache | Nicola, Sathana |
-| 8    | Ladezeit | XX.XX | - | Nicola, Sathana |
-| 9    | Responsivität | XX.XX | - | Nicola, Sathana |
-| 10   | Zugang | XX.XX | - | Nicola, Sathana |
+| Test | Stimme gar nicht zu | Stimme nicht ganz zu | Stimme ein bisschen zu | Stimme voll zu | Punkte |
+| - | - | - | - | - | - |
+| Ich kann mir gut vorstellen, diese Portfolio-Website regelmäßig zu besuchen. | | | X | | 2 |
+| Ich empfinde die Navigation der Website als übersichtlich und einfach zu nutzen. | | | | X | 3 |
+| Ich finde die Präsentation der Projekte intuitiv und ansprechend. | | | X | | 2 |
+| Ich denke, dass ich Hilfe benötigen würde, um alle Funktionen der Website zu nutzen. |  | X | | | 2 |
+| Ich finde, dass die verschiedenen Abschnitte der Website gut miteinander verknüpft sind. | | | | X | 3 |
+| Ich habe das Gefühl, dass es auf der Website zu viele Informationen auf einmal gibt. | X | | | | 3 |
+| Ich kann mir vorstellen, dass die meisten Nutzer die Website schnell verstehen und bedienen können. | | | | X | 3 |
+| Ich empfinde die Bedienung der Website als umständlich und verwirrend. | X | | | | 3 |
+| Ich fühle mich beim Durchstöbern der Website sicher und wohl. | | | | X | 3 |
+| Ich musste viele Informationen lernen, bevor ich die Website effizient nutzen konnte. | X | | | | 3 |
+| Total | | | | | 27/30 |
