@@ -93,14 +93,14 @@ Usability Tests
 
 | Test | Stimme gar nicht zu | Stimme nicht ganz zu | Stimme ein bisschen zu | Stimme voll zu | Punkte |
 | - | - | - | - | - | - |
-| Ich kann mir gut vorstellen, diese Portfolio-Website regelmäßig zu besuchen. | | | X | | 2 |
 | Ich empfinde die Navigation der Website als übersichtlich und einfach zu nutzen. | | | | X | 3 |
-| Ich finde die Präsentation der Projekte intuitiv und ansprechend. | | | X | | 2 |
-| Ich denke, dass ich Hilfe benötigen würde, um alle Funktionen der Website zu nutzen. |  | X | | | 2 |
 | Ich finde, dass die verschiedenen Abschnitte der Website gut miteinander verknüpft sind. | | | | X | 3 |
+| Ich finde die Präsentation der Projekte intuitiv und ansprechend. | | | X | | 2 |
 | Ich habe das Gefühl, dass es auf der Website zu viele Informationen auf einmal gibt. | X | | | | 3 |
 | Ich kann mir vorstellen, dass die meisten Nutzer die Website schnell verstehen und bedienen können. | | | | X | 3 |
+| Ich denke, dass ich Hilfe benötigen würde, um alle Funktionen der Website zu nutzen. |  | X | | | 2 |
 | Ich empfinde die Bedienung der Website als umständlich und verwirrend. | X | | | | 3 |
+| Ich kann mir gut vorstellen, diese Portfolio-Website regelmäßig zu besuchen. | | | X | | 2 |
 | Ich fühle mich beim Durchstöbern der Website sicher und wohl. | | | | X | 3 |
 | Ich musste viele Informationen lernen, bevor ich die Website effizient nutzen konnte. | X | | | | 3 |
 | Total | | | | | 27/30 |
