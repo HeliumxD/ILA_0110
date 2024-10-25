@@ -5,9 +5,11 @@ Nicola Karrer
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08 | 0.0.1   | Plannung gemacht und Test design erstellt |
-| 30.80 | 0.0.2   | HTML- und CSS und JS-Basis Code geschrieben, JSON-Code angefangen |
+| 30.08 | 0.0.2   | HTML- und CSS und JS-Basis Code geschrieben, JSON-Code angefangen |
 | 06.09 | 0.0.3   | Webseite dynamisch gemacht und angefangen Text zu schreiben |
-| 13.09 | 1.0.0   | Webseite responsive gemacht und Text fertig geschrieben |
+| 13.09 | 0.1.0   | Webseite responsive gemacht und Text fertig geschrieben |
+| 14.10 | 0.1.1   | Usability Tests geschrieben und ein Teil testet |
+| 25.10 | 1.0.0   | Webseite veröffentlicht und alle Tests durchgeführt |
 
 ## 1 Informieren
 
@@ -24,7 +26,7 @@ Portfolio Webseite über mich
 | 3 | Funktional | Als User möchte ich, dass mir alles korrekt angezeigt wird |
 | 4 | Qualität | Als User möchte ich, dass das GUI angenehm ist |
 | 5 | Qualität | Als User möchte ich, dass die Webseite responsiv ist |
-| ~6~ | ~Randbedingung~ | ~Als User möchte ich, dass ich direkt eine Nachricht verschicken kann~ |
+| 6 | Randbedingung | Als User möchte ich, dass ich direkt eine Nachricht verschicken kann |
 
 ### 1.3 Test design
 
@@ -78,8 +80,12 @@ Portfolio Webseite über mich
 | 6.C  | 13.09 | Nicola | "Projekte" schreiben | 90min |
 | 6.D  | 13.09 | Nicola | "Kontakt" schreiben | 10min |
 | 8.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
-| 9.B  | 14.10 | Niocla | Usability Tests schreiben | 90min |
-| 9.C  | 14.10 | Nicola | Tests durchführen | 90min |
+| 9.B  | 14.10 | Niocla | Usability Tests schreiben | 45min |
+| 9.C  | 14.10 | Nicola | Tests durchführen | 45min |
+| -    | 14.10 | Nicola | Portfolio | 90min |
+| 10.A | 25.10 | Nicola | Webseite veröffenlichen | 90min |
+| 9.C  | 25.10 | Nicola | Tests durchführen | 45min |
+| -    | 25.10 | Nicola | Portoflio | 45min |
 
 ## 5 Kontrollieren
 
