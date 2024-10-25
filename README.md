@@ -90,6 +90,7 @@ Portfolio Webseite über mich
 ## 5 Kontrollieren
 
 Usability Tests
+Durchgeführt von Sathana
 
 | Test | Stimme gar nicht zu | Stimme nicht ganz zu | Stimme ein bisschen zu | Stimme voll zu | Punkte |
 | - | - | - | - | - | - |
