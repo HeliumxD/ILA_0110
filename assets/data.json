@@ -1,0 +1,63 @@
+{
+    "about": {
+        "name": "Nicola Karrer",
+        "intro": "Mein Name ist Nicola Karrer und ich möchte in die Welt der Informatik eintauchen.",
+        "informatik": "Ich habe schon in jungen Jahren in diesem Gebiet interesse gefunden. Lego Mindstorm war einer meiner ersten Kontakte, wo man mit Sensoren arbeite konnte um bestimmte Befehle auszuführen. Zudem habe ich schon in der Bezirksschule das 10-Fingersystem gelernt, was in meinen Augen sehr nützlich ist. <br> An der Informatikmittelschule konnte ich 3 Jahre lang Erfahrung in den unterschiedlichsten Bereichen sammeln. Die Themen, die wir behandelt haben, gehen von einfachem Frontend wie C#, zu Backend mit Docker, Datenbanken mit MSSQL und NoSQL, Cloud mit AWS und auch Projektmethoden wie IPERKA oder Scrum. <br> Zurzeit bin ich auf der Suche nach einem Praktikum, um meinen schulischen Abschluss abzuschliessen und meinen Weg als Informatiker weiter zu gehen.",
+        "interessen": "Zu meinen Interessen gehört unter anderem die Musik. Ich spiele die Klarinette schon eine längere Zeit, aber es macht mir immer wieder spass. Da ich zudem gerne im Team arbeite, bin ich auch in vielen Orchestern tätig. <br> In meiner Freizeit bin ich sonst auch gerne mal Zuhause. Hier kann ich meiner Kreativität beim Zeichnen oder Lesen freien lauf lassen oder beim Gamen meine Kompetitivität und Ergeiz unter Beweis stellen. <br> Eine weitere Interesse von mir sind die Sprachen und Länder. Ich durfte schon einen grossen Teil der Welt bereisen und mich inspirieren lassen. Darunter waren auch die Sprachaufenthalte ein Teil, die ich mit jungen Jahren alleine durchstreifte. <br> Dazugehörend und zuletzt, gibt es noch das Tauchen. Ich habe nebst dem OWD auch schon den Advanced und Nitrox Kurs gemacht. Damit bin ich schon zwei mal mit meiner Familie auf den Malediven tauchen gegangen und habe viele Fische und andere Meerestiere wie Haie, Schildkröten und mein Highlight, einen Mantarochen, gesehen."
+    },
+    "lebenslauf": {
+        "schulgang": [
+            {"jahr": "2013 bis 2019", "schule": "Primarschule Angelrain"},
+            {"jahr": "2019 bis 2022", "schule": "Oberstufe Bezirksschule Lenzhard"},
+            {"jahr": "2022 bis 2025", "schule": "Informatikmittelschule Alte Kantonsschule Aarau"}
+        ],
+        "hobbys": [
+            {"jahr": "2014 - 2017", "hobby": "Tennis Club Unterentfelden"},
+            {"jahr": "2017 - 2019", "hobby": "Freifach Basketball Primarschule"},
+            {"jahr": "2019 - 2021", "hobby": "Fussball Club Lenzburg B-Tam b"},
+            {"jahr": "2015 - Heute", "hobby": "Klarinette"},
+            {"jahr": "2023 - Heute", "hobby": "Jazzorchester Alte / Neue Kanti"},
+            {"jahr": "2024 - Heute", "hobby": "Musikgesellschaft Othmarsingen"}
+        ],
+        "sprachen": [
+            {"sprache": "Deutsch", "level": "Muttersprache"},
+            {"sprache": "Koreanisch", "level": "Muttersprache"},
+            {"sprache": "Englisch", "level": "Fließend"},
+            {"sprache": "Französisch", "level": "Grundkenntnisse"}
+        ]
+    },
+    "projekte": [
+        {
+            "img": "./Images/1300_NumberGuesser.png",
+            "alt": "Projekt 1",
+            "titel": "Number Guesser",
+            "beschreibung": "Mein alles erstes Projekt in der Informatik war ein Zahlen erraten Spiel. Den Fortschritt ist hier in dieser Dokumentation festgehalten.",
+            "link": "https://portfolio.bbbaden.ch/view/view.php?t=b89c01469651e7533b94"
+        },
+        {
+            "img": "./Images/M210_AWS.png",
+            "alt": "Projekt 2",
+            "titel": "AWS",
+            "beschreibung": "Zum Thema Cloud haben wir uns viel mit AWS auseinander gesetzt. Einen Teil, den ich bearbeitet heabe, findet man hier.",
+            "link": "https://portfolio.bbbaden.ch/view/view.php?t=b140b8af3bd9325ea381"
+        },
+        {
+            "img": "./Images/M122_PipeLine.png",
+            "alt": "Projekt 3",
+            "titel": "PipeLine",
+            "beschreibung": "Ein kleiner, aber wichtiger Teil, ist auch die PipeLine. Was genau ich alles gelernt habe, kann man in dieser Dokumentation finden.",
+            "link": "https://portfolio.bbbaden.ch/view/view.php?t=5d27adaa34fae59e68b3"
+        },
+        {
+            "img": "./Images/1304_Rogue.png",
+            "alt": "Projekt 4",
+            "titel": "Rogue Game",
+            "beschreibung": "Eins von meinen lieblings Projekten war unser Rogue Like Game Spiel. In der Dokumentation ist beschrieben, wie genau wie wir daran angegangen sind.",
+            "link": "https://portfolio.bbbaden.ch/view/view.php?t=994d821edd79f8458866"
+        }
+    ],
+    "kontakt": {
+        "email": "nicola.karrer@proton.me",
+        "tel": "+41 77 492 98 69"
+    }
+}
