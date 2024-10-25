@@ -81,11 +81,11 @@ Portfolio Webseite über mich
 | 6.D  | 13.09 | Nicola | "Kontakt" schreiben | 10min |
 | 8.A  | 13.09 | Nicola | Webseite responsive machen | 45min |
 | 9.B  | 14.10 | Niocla | Usability Tests schreiben | 45min |
-| 9.C  | 14.10 | Nicola | Tests durchführen | 45min |
 | -    | 14.10 | Nicola | Portfolio | 90min |
-| 10.A | 25.10 | Nicola | Webseite veröffenlichen | 90min |
-| 9.C  | 25.10 | Nicola | Tests durchführen | 45min |
-| -    | 25.10 | Nicola | Portoflio | 45min |
+| 10.A | 14.10 | Nicola | Webseite veröffenlichen | 45min |
+| 10.A | 25.10 | Nicola | Webseite veröffenlichen | 45min |
+| 9.C  | 25.10 | Nicola | Tests durchführen | 60min |
+| -    | 25.10 | Nicola | Portoflio | 60min |
 
 ## 5 Kontrollieren
 
